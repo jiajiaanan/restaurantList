@@ -1,3 +1,4 @@
+![image](https://github.com/jiajiaanan/restaurantList/blob/main/screenshot.png)
 
 ## 介紹
 
