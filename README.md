@@ -16,7 +16,7 @@
 2. 在終端機使用 git clone 複製 GitHub 的專案到本機端
     
     ```jsx
-    git clone https://github.com/pierceshih15/restaurantList.git
+    git clone https://github.com/jiajiaanan/restaurantList.git
     ```
     
 3. 透過終端機進入專案資料夾
@@ -31,13 +31,19 @@
     npm install
     ```
     
-5. 使用 nodemon 套件連結至伺服器，在終端機輸入：
+5. 安裝完畢後，在終端機輸入：
     
     ```jsx
-    nodemon app.js
+    npm run start
     ```
     
-6. 欲中斷連線，在終端機輸入：
+6. 若看見此行訊息則代表順利運行，打開瀏覽器進入到以下網址
+    
+    ```jsx
+    Listening on http://localhost:3000
+    ```
+    
+7. 欲中斷連線，在終端機輸入：
     
     ```jsx
     ctrl + c
