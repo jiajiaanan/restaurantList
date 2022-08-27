@@ -1,4 +1,4 @@
-# restaurantList
+![screenshot.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49a30d2b-055e-44f4-bdde-6c6cc0d43989/screenshot.png)
 ## 介紹
 
 創建屬於自己的餐廳清單
